@@ -1,3 +1,3 @@
-creation du projet
+-typescript
+-styles globaux
 
-# nlw-05-react
