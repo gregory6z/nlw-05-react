@@ -1,12 +1,12 @@
 {
   "episodes": [
     {
-      "id": "a-importancia-da-contribuicao-em-open-source",
-      "title": "Faladev #30 | A importância da contribuição em Open Source",
+      "id": "l-importance-de-la-contribution-en-open-source",
+      "title": "Faladev #30 | L'importance de la contribution en Open Source",
       "members": "Diego Fernandes, João Pedro, Diego Haz e Bruno Lemos",
       "published_at": "2021-01-22 16:35:40",
       "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
-      "description": "<p>Nesse episódio do Faladev, Diego Fernandes se reúne com João Pedro Schmitz, Bruno Lemos e Diego Haz, para discutir sobre a importância da contribuição open source e quais desafios circulam na comunidade.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>",
+      "description": "<p>Dans cet épisode de Faladev, Diego Fernandes rencontre João Pedro Schmitz, Bruno Lemos et Diego Haz, pour discuter de l'importance de la contribution open source et des défis qui circulent dans la communauté. </p> <p> Nous passons la plupart du temps à écrire code. Il est maintenant temps d'en parler. Chaque semaine, nous réunissons des professionnels de la technologie pour discuter de tout ce qui circule dans l'orbite de la programmation. </p> <p> Faladev est un podcast original de Rocketseat. </p>",
       "file": {
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
         "type": "audio/x-m4a",
@@ -14,12 +14,12 @@
       }
     },
     {
-      "id": "uma-conversa-sobre-programacao-funcional-e-orientacao-a-objetos",
-      "title": "Faladev #29 | Duas perspectivas diferentes na mesa: uma conversa sobre PF e OOP",
+      "id": "un-parler-de-programmation-fonctionnelle-et-orientation-objet",
+      "title": "Faladev #29 | Deux perspectives différentes à la table: une conversation sur PF et POO",
       "members": "Diego Fernandes, Dani Leão, Laura Beatris e Rafael Camarda",
       "published_at": "2021-01-15 13:00:00",
       "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/funcional.jpg",
-      "description": "<p>Diego e Dani receberam Laura Beatris e Rafael Camarda na mesa do Faladev para conversarem sobre programação funcional e programação orientada a objetos.</p><p>Análises de mercado, conceitos na prática e desafios na adoção de qualquer método de desenvolvimento. Tudo isso numa conversa dinâmica e relevante para nosso público.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso. Toda semana reunimos profissionais da tecnologia para discutir sobre tudo que circula na órbita da programação.</p><p>O Faladev é um podcast original Rocketseat.</p>\n",
+      "description": "<p>Diego et Dani ont reçu Laura Beatris et Rafael Camarda à la table Faladev pour parler de programmation fonctionnelle et de programmation orientée objet. </p> <p> Analyse de marché, concepts en pratique et défis dans l'adoption de toute méthode de développement. Tout cela dans une conversation dynamique et pertinente pour notre public. </p> <p> Nous passons la plupart de notre temps à écrire du code. Il est maintenant temps d'en parler. Chaque semaine, nous réunissons des professionnels de la technologie pour discuter de tout ce qui circule dans l'orbite de la programmation. </p> <p> Faladev est un podcast original de Rocketseat.</p>\n",
       "file": {
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/funcional.m4a",
         "type": "audio/x-m4a",
